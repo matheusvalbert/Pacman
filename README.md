@@ -22,4 +22,4 @@ Selecionar fase: 1, 2, 3
 Movimentação: W,A,S,D
 ```
 # video
-(https://youtu.be/8uo3A6onUKE)
+[![Demonstracao](http://img.youtube.com/vi/8uo3A6onUKE/0.jpg)](http://www.youtube.com/watch?v=8uo3A6onUKE "")
