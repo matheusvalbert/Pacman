@@ -8,6 +8,7 @@ O que falta:
 - Pontuação pontos bônus(polinhas grandes)
 - Pacman comer fantasmas
 - Pontuação por comer os fantasmas
+- Correção de bugs
 ```
 # Começando a utilizá-lo
 ```
