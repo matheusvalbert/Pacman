@@ -21,5 +21,4 @@ Entrar no jogo: Enter
 Selecionar fase: 1, 2, 3
 Movimentação: W,A,S,D
 ```
-[Video Demo](https://youtu.be/8uo3A6onUKE)
-https://youtu.be/8uo3A6onUKE
+[Video](https://youtu.be/8uo3A6onUKE)
