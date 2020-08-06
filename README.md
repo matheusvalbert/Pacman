@@ -22,4 +22,4 @@ Selecionar fase: 1, 2, 3
 Movimentação: W,A,S,D
 ```
 # video
-[![Watch the video](https://youtu.be/8uo3A6onUKE)
+[!Watch the video](https://youtu.be/8uo3A6onUKE)
