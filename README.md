@@ -22,4 +22,5 @@ Selecionar fase: 1, 2, 3
 Movimentação: W,A,S,D
 ```
 # Video
+Para visualizar o video completo [Clique aqui](https://youtu.be/8uo3A6onUKE)
 [![Demonstração](https://github.com/matheusvalbert/pacman-Assembly-8086/blob/master/demonstracao.gif)](https://youtu.be/8uo3A6onUKE)
