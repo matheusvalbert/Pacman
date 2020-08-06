@@ -15,3 +15,9 @@ O que falta:
 Este projeto foi utilizado o DOSBox.
 Para realizar a utilização do jogo é necessário compilar o código e executá-lo.
 ```
+# Comandos
+```
+Entrar no jogo: Enter
+Selecionar fase: 1, 2, 3
+Movimentação: W,A,S,D
+```
