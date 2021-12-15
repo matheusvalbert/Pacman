@@ -1,5 +1,5 @@
 # Introdução
-```
+
 Este projeto foi desenvolvido no segundo semestre na disciplina de de Organização de Computadores e Linguagem de Montagem(OCLM).
 O objetivo do projeto é recriar o jogo pacman em Assembly 8086.
 O jogo possui 3 fases diferentes.
@@ -9,12 +9,12 @@ O que falta:
 - Pacman comer fantasmas
 - Pontuação por comer os fantasmas
 - Correção de bugs
-```
+
 # Começando a utilizá-lo
-```
+
 Este projeto foi utilizado o DOSBox.
 Para realizar a utilização do jogo é necessário compilar o código e executá-lo.
-```
+
 # Comandos
 ```
 Entrar no jogo: Enter
